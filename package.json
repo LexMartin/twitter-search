@@ -1,0 +1,14 @@
+{
+  "name": "tws",
+  "version": "0.1.0",
+  "description": "Busquedas de twitter",
+  "main": "tws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lex Martin",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
